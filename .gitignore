@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+/02_*/
+/03_*/
+/04_*/
+*.npz
+*.npy
+*.mat
+*.pt
+*.pth
+*.xlsx
+*.pdf
+.env
+verification_runs/

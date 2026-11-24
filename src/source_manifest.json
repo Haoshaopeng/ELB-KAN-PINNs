@@ -1,0 +1,112 @@
+{
+  "Burgers_hybrid_model_CUDA.py": {
+    "archive_sha256": "794b26c457cb2308b8bb31d03c9ff3dca8f6f2fcf390295fd001bf672f912556",
+    "module": "burgers_hybrid.py",
+    "release_sha256": "a63121f8ade6df3db5c472af15e4b76062e7e1a8e02daa0af099e5e4f71be8ba"
+  },
+  "KdV_supervised_inverse_KAN_fast.py": {
+    "archive_sha256": "a6b76ae3b68bdc5f74647b67d10df2af3e621284cc812094e80106d4980b421e",
+    "module": "kdv_inverse_model.py",
+    "release_sha256": "9c4c447f8adf413ae1d7983f8f5ad07c58c4400c3b48362f03f6ec8e0a67eba5"
+  },
+  "NSdiagnostics.py": {
+    "archive_sha256": "769ef5a3c8b63d067f62de17839fa222e9fb4e69d02d33058043a481893a197e",
+    "module": "navier_stokes_diagnostics.py",
+    "release_sha256": "4c57b13dfa669d7fe91a90b7743ff6fe3023df250a6725a2f34fbe61bbeb213a"
+  },
+  "adaptive_basis.py": {
+    "archive_sha256": "8353232a51de046f4a07422ed926b983d6c84d21648c8fd1ddf729e3a0593e96",
+    "module": "adaptive_basis.py",
+    "release_sha256": "f84903b40042477dd485bfb49370bce508a214f439d3e30df886f9f3d4b20ae4"
+  },
+  "adaptive_basis_full.py": {
+    "archive_sha256": "f761eef8734788b6664e01d0949e2d10e12a63a6900f19842877ef0796079583",
+    "module": "forward_training.py",
+    "release_sha256": "f232e624af60207bb95816047ddcf9b250bcc2ec107c313e8184fbc6d8580355"
+  },
+  "adaptive_basis_inverse.py": {
+    "archive_sha256": "ba233916c37c065dd0874305c98ad8eb102709efe8a1aaf9b00c752f5afc638d",
+    "module": "inverse_training.py",
+    "release_sha256": "539a232bc5af7300a2cf2c55c276f4f7786ca1e8db23e8a8f51010ec1d474f08"
+  },
+  "adaptive_burgers.py": {
+    "archive_sha256": "c004b8388eb12472ac5ed4e9d4302830662fa008dcc38dc75a13e574804c2937",
+    "module": "burgers_training.py",
+    "release_sha256": "17b92cc06708884a10e4bec8f13c2b65287a22bb8da19ef1d930bf3589749427"
+  },
+  "adaptive_shared_control.py": {
+    "archive_sha256": "9aa3876fffb3581e1f33328b6cda62f69848f710cd2a26a90de16e8dae4366ff",
+    "module": "shared_gate_control.py",
+    "release_sha256": "82c7da66507fc10321311446bcc293e8efcf170d6cf390f69fc08d208c81e276"
+  },
+  "adaptive_supplement.py": {
+    "archive_sha256": "12272e9dc207a18284cd6ac8bc52132d66edc9abc8241c64155dcc865534c633",
+    "module": "basis_sensitivity.py",
+    "release_sha256": "2a415d5644404c20f3795b4869dd96c6cbf360aae132979db3a48fdb73f98d1a"
+  },
+  "architecture_controls.py": {
+    "archive_sha256": "f522783f71920274c776dbc2e623e0ab5f7c533fecd42597a2deac7e81f8c53d",
+    "module": "architecture_controls.py",
+    "release_sha256": "dd2715e2270fdb191996940730917e9d024535d9e410decd8a20a43582a267ec"
+  },
+  "completion45.py": {
+    "archive_sha256": "ba6e2bdaf97f18f7c24d1b6414b0c957020544fdb9864ed7682ca6abf84b96a4",
+    "module": "kdv_pairs_and_noise_controls.py",
+    "release_sha256": "e3394bad48650bf0766381e6ec661f35b5c1d4664df01901ececf9b177b6c178"
+  },
+  "generalization.py": {
+    "archive_sha256": "9fe286277abe8859b3c0336e66acfa162e4349ee0df06f3033ddebb2d292ce24",
+    "module": "pde_benchmarks.py",
+    "release_sha256": "7a9b81fdf5c1003f8c18c60e15588bad2538f1910f3618903a930f4fb91e3c1f"
+  },
+  "layer_pairs.py": {
+    "archive_sha256": "d2c8cc41a4ce2f7b010cf8078466b1a9675a7c492dbe331361cb42c667ad2b85",
+    "module": "layer_pairs.py",
+    "release_sha256": "2f1b507e4034ddb8b530ed49ae0d92a876b3c378688c8e3de1bfe12a4271a996"
+  },
+  "new_pde_inverse.py": {
+    "archive_sha256": "f5fff9a076409b23953de28e917b6a939f130c25d02a41f493ca7dea6ed7b9cf",
+    "module": "inverse_benchmarks.py",
+    "release_sha256": "e143ff9c6abbb3c4478e809de034b2583cf7a87cbe75d1492d788ddd2f12d56c"
+  },
+  "paper_conditions.py": {
+    "archive_sha256": "5435dffb36f4b457ef0c7e8f25c789fc6c583ba28a7d7ef34938984b5a127f52",
+    "module": "experiment_conditions.py",
+    "release_sha256": "493202b9df35300bca6f850df6199af7202502b92ba4496c4380b50669b0f522"
+  },
+  "paper_wake.py": {
+    "archive_sha256": "f531029f963ad8061233c23a0b5f29e7a54364bf5ab377945fc6916f57f057a1",
+    "module": "cylinder_wake.py",
+    "release_sha256": "7eabf0261c1ad844e59535cf584a7fdb5cb879f7f8cae4d455cb0c5e2835f964"
+  },
+  "prepare_inverse_data.py": {
+    "archive_sha256": "9c8e8376f7b689bbb04f1a223ae172228fa732814e873712b56b2283bdcadfd0",
+    "module": "prepare_inverse_data.py",
+    "release_sha256": "64d24622016b5997b8ff04be8d29bd37daf607ce3bd88e84e12aa90fc30a6fd2"
+  },
+  "resume_held_oom.py": {
+    "archive_sha256": "d4ae2d7dacbf059a1d4a73507c9a424764b1cf85af59e8e337f550c3b9dd7421",
+    "module": "resume_training.py",
+    "release_sha256": "a3cd1df71f059c984b3df792b50be5ba913b8cdf79d709e912791e1fa46435be"
+  },
+  "resume_inverse_oom.py": {
+    "archive_sha256": "b7737fa585aa8d8c6eacc2ce93f7376a3ed94d7f294fd56129e80be5add8a5f3",
+    "module": "resume_inverse_training.py",
+    "release_sha256": "200c2faa45399bde356700e6ee9a03356686c856348c591f8afcc3056f489f84"
+  },
+  "train_unlabelled_forward.py": {
+    "archive_sha256": "145c636a90f730ae35ef8a68978ca43ce0284a7d059e9b833ae7ad5c41b5bdc8",
+    "module": "forward_physics_loss.py",
+    "release_sha256": "3803780c6ea55ad000e9939a34302b3753445035a75df1859cf056744bd3cd86"
+  },
+  "auxiliary_suite.py": {
+    "archive_sha256": "06d2c9759a3958202071bd0c8bcbb4139a9de81a721048353d6d36691b136ef5",
+    "module": "benchmark_training.py",
+    "release_sha256": "0de8bbe161055bdaa75cdb92d18312daebda6faa26f36ed69d11aa00b675d72c"
+  },
+  "experiment_environment.py": {
+    "archive_sha256": "83c38288ba32502be16e262ee3064e885a531cd98ec6137187829b4537841c35",
+    "module": "training_utils.py",
+    "release_sha256": "83c38288ba32502be16e262ee3064e885a531cd98ec6137187829b4537841c35"
+  }
+}
